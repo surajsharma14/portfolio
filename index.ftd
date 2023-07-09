@@ -21,7 +21,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /My Portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
